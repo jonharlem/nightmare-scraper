@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jon Harlem",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "locus": "^1.2.0",
+    "nightmare": "^2.0.9",
+    "vo": "^1.0.3"
+  }
 }
